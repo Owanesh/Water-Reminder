@@ -13,7 +13,7 @@ Then i decided to use Mac OS Automator and AppleScript to help him.
 For 8 hours, once per hour, app will display a notification
 
 #### #sharingiscaring ⭐️
-Feel free to fork and update this script/app, share on socials and star this repo 
+Feel free to fork and update this script/app, (you can edit with [Automator](https://support.apple.com/guide/automator/welcome/mac)) share on socials and star this repo 
 
 <html>
 <p align="center">
