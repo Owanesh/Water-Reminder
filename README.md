@@ -1,9 +1,11 @@
 <html>
-<center>
+<p align="center">
 <h1>💧 Water Reminder</h1>
 <h4>Don't forget to respect the planet <br>🌳🌎♻️  (re)Use recyclable cup!</h4>
-</center>
+
+</p>
 </html>
+
 A simple zero knowledge reminder for your healthy habits. No external URL/Service will called
 
 #### Why? 🤷‍♂️
@@ -18,3 +20,4 @@ Feel free to fork and update this script/app, share on socials and star this rep
 
 _You can find me on twitter as @Owanesh_
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
